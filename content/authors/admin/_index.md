@@ -28,8 +28,7 @@ social:
     link: https://www.youtube.com/@dhruvbhirud
     icon_pack: fab
     icon: youtube
-organizations:
-  - name: none
+organizations: []
 education:
   courses:
     - course: Primary Education
