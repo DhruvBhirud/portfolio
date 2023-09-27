@@ -6,8 +6,8 @@ featured: true
 authors:
   - admin
 tags:
-  - ml
-  - web
+  - ML
+  - Web
 links:
   - url: https://github.com/DhruvBhirud/Intrusion-Detection-System-using-ML
     name: NIDS App Based On ML
