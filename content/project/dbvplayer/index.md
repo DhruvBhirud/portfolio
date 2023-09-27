@@ -11,6 +11,7 @@ links:
   - url: https://github.com/DhruvBhirud/DBVPlayer
     icon_pack: fab
     icon: github
+    name: DBVPlayer
 image:
   filename: dbvplayer.png
   focal_point: Smart
