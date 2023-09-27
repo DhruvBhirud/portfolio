@@ -1,6 +1,7 @@
 ---
 title: Network Intrusion Detection System using ML
 date: 2023-09-27T13:06:47.041Z
+summary: a
 draft: false
 featured: true
 authors:
