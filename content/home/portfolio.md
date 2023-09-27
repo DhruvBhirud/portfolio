@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Android Application
+      tag: Android
+    - name: Web Application
+      tag: Web
 
 design:
   columns: '1'
