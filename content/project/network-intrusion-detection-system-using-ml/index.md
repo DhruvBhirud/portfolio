@@ -1,7 +1,8 @@
 ---
 title: Network Intrusion Detection System using ML
 date: 2023-09-27T13:06:47.041Z
-summary: a
+summary: An IDS web application created to demonstrate the usage of trained AI
+  model to detect intrusion in local network.
 draft: false
 featured: true
 authors:
