@@ -31,14 +31,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: Primary Education
-      institution: Shishuvihar, Vidyapeeth Highschool - Ganeshkhind, Pune.
-      year: ""
-    - course: Secondary Education
-      institution: M.S.S High School - Chinchwad, Pune.
     - course: Higher Secondary Education
       institution: Pratibha Junior College - Nigdi, Pune.
-    - course: Bachelor of Engineering in Computer
+    - course: Bachelor of Engineering in Computer (CGPA - 8.58)
       institution: VIT Kamshet Suman Ramesh Tulsiani Technical Campus Faculty of
         Engineering, Pune.
 email: bhiruddhruv@gmail.com
