@@ -23,6 +23,8 @@ image:
   preview_only: false
   caption: ""
 ---
+A Movie Watchlist Project using OMDB an IMDb API, Streaming Availability API, Java Spring Boot and Angular
+
 ## Api Used
 
 * [OMDB API](http://www.omdbapi.com/)
