@@ -8,10 +8,7 @@ draft: false
 featured: false
 authors:
   - admin
-tags:
-  - Java
-  - Springboot
-  - Angular
+tags: []
 links:
   - url: https://github.com/DhruvBhirud/tvtime
     name: TV Time
