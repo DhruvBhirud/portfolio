@@ -18,7 +18,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: tvtime-dark.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ""
