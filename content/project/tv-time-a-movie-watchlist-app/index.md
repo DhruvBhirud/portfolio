@@ -29,3 +29,15 @@ A Movie Watchlist Project using OMDB an IMDb API, Streaming Availability API, Ja
 
 * [OMDB API](http://www.omdbapi.com/)
 * [Streaming Availability API](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/)
+
+## Screenshots
+
+![results](results.png "Results")
+
+![favorite_list](favorite_list.png "Favorite List")
+
+![search_history_list](search_history_list.png "Search History")
+
+![movie_modal](movie_modal.png "Movie Modal")
+
+![movie_modal_wheretowatch](movie_modal_wheretowatch.png "Movie Modal whereToWatch function")
