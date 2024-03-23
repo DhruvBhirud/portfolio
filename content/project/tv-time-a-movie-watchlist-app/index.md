@@ -5,10 +5,13 @@ date: 2024-03-23T13:10:52.265Z
 summary: A Movie Watchlist Project using OMDB an IMDb API, Streaming
   Availability API, Java Spring Boot and Angular
 draft: false
-featured: false
+featured: true
 authors:
   - admin
-tags: []
+tags:
+  - Java
+  - Springboot
+  - Angular
 links:
   - url: https://github.com/DhruvBhirud/tvtime
     name: TV Time
@@ -18,7 +21,7 @@ image:
   filename: tvtime-dark.png
   focal_point: Smart
   preview_only: false
-  caption: tvtime_dark
+  caption: ""
 ---
 ## Api Used
 
