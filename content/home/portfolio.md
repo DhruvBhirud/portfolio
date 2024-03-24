@@ -34,6 +34,12 @@ content:
       tag: Android
     - name: Web Application
       tag: Web
+    - name: Java
+      tag: Java
+    - name: Springboot
+      tag: Springboot
+    - name: Angular
+      tag: Angular
 
 design:
   columns: '1'
