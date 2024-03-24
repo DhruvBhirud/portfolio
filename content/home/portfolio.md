@@ -42,7 +42,7 @@ content:
       tag: Angular
 
 design:
-  columns: '2'
+  columns: '4'
   view: masonry
   flip_alt_rows: true
   background: {}
