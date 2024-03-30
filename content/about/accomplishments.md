@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-   - certificate_url: https://learning.tcsionhub.in/LX/ecertificate/verification
+   - certificate_url: https://dhruvbhirud.github.io/assets/certificates/TCS%20ion%20Certificate%20Dhruv%20Bhirud.pdf
      date_end: ''
      date_start: '2021-01-25'
      description: ''
      organization: TCS iON
      organization_url: https://www.tcsion.com/
      title: Career Skills
-     url: 'https://dhruvbhirud.github.io/assets/certificates/TCS%20ion%20Certificate%20Dhruv%20Bhirud.pdf'
+     url: 'https://www.tcsion.com'
    - certificate_url: https://www.edx.org
      date_end: ''
      date_start: '2021-01-01'
