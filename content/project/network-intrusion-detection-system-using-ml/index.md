@@ -23,3 +23,23 @@ image:
 Intrusion Detection Web App Based On Python Flask and Trained
 ML Models Based On SVM and Random Forest Algorithms Which
 are Trained Using KDD Dataset
+
+# Screenshots
+
+![dos](dos.png "DoS")
+
+![dos_results](dos_results.png "DoS Results")
+
+![probe](probe.png "Probe")
+
+![probe_results](probe_results.png "Probe Results")
+
+![u2r](u2r.png "U2R")
+
+![u2r_results](u2r_results.png "U2R Results")
+
+![r2l](r2l.png "R2L")
+
+![r2l_results](r2l_results.png "R2L Results")
+
+![normal_results](normal_result.png "Normal Results")
