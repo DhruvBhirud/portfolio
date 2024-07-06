@@ -19,6 +19,4 @@ image:
   preview_only: false
   caption: ""
 ---
-Video Player made for Android based on Exo Player, Displays
-videos on the internal storage in folder view as well as in list format
-in two different activities
+Created an Android-based video player using ExoPlayer. The app features a dual-view system, displaying videos stored on internal storage in both folder view and list format, across two separate activities.
