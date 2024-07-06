@@ -20,9 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Intrusion Detection Web App Based On Python Flask and Trained
-ML Models Based On SVM and Random Forest Algorithms Which
-are Trained Using KDD Dataset
+Designed and developed an intrusion detection web application using Python Flask. Integrated machine learning models based on Support Vector Machine (SVM) and Random Forest algorithms, trained on the KDD dataset.
 
 # Screenshots
 
