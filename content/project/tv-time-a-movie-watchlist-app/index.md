@@ -23,7 +23,7 @@ image:
   preview_only: false
   caption: ""
 ---
-A Movie Watchlist Project using OMDB an IMDb API, Streaming Availability API, Java Spring Boot and Angular
+Developed a movie watchlist application leveraging the OMDB and IMDb APIs, along with the Streaming Availability API. Utilized Java Spring Boot for backend development and Angular for frontend development.
 
 ## Api Used
 
