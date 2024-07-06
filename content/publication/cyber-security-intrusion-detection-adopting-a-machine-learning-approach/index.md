@@ -31,6 +31,10 @@ abstract: The Intrusion network (INetwork) connects systems, applications, data
   environment.
 draft: false
 featured: true
+tags:
+  - Cyber
+  - IDS
+  - ML
 image:
   filename: ""
   focal_point: Smart
