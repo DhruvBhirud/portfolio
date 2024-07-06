@@ -33,7 +33,7 @@ abstract: The Intrusion network (INetwork) connects systems, applications, data
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2024-07-06T10:09:04.118Z
