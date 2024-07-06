@@ -6,7 +6,7 @@ authors:
   - Dhruv
   - Vaishnavi
   - Arif
-doi: https://doi.org/10.56025/IJARESM.2023.115232370
+doi: 10.56025/IJARESM.2023.115232370
 publication: International Journal of All Research Education & Scientific Methods
 publication_short: IJARESM
 abstract: The Intrusion network (INetwork) connects systems, applications, data
